@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c",
+			"task.h": "c",
+			"esp_now.h": "c"
+		}
+	}
+}
